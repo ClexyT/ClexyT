@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Eduardo Aguilar 🐱‍👤</h1>
 <h3 align="center">A frontend developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clexyt&label=Profile%20views&color=0e75b6&style=flat" alt="clexyt" /> </p>
+- 👨‍🎓 **Currently studying High School**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clexyt" alt="clexyt" /></a> </p>
+- 🌱 **I’m currently learning in DEVF**
 
-<p align="left"> <a href="https://twitter.com/clexyt_" target="blank"><img src="https://img.shields.io/twitter/follow/clexyt_?logo=twitter&style=for-the-badge" alt="clexyt_" /></a> </p>
+- 🕵️‍♂️ **I love constant learning**
 
-- 🌱 I’m currently learning **in DEVF**
+- 🤝 **I like to help another people**
 
 - 💬 Ask me about **react, python, js**
 
@@ -25,9 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee ClexyT"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee ClexyT" /></a><a href="https://ko-fi.com/ClexyT"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ClexyT" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clexyt&show_icons=true&locale=en&layout=compact" alt="clexyt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clexyt&show_icons=true&locale=en" alt="clexyt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clexyt&" alt="clexyt" /></p>
