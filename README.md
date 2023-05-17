@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Eduardo Aguilar 🐱‍👤</h1>
 <h3 align="center">A frontend developer from Mexico</h3>
 <h6 align="center">Discord: ClexyT#0347</h6>
+
 - 👨‍🎓 **Currently studying High School**
 
 - 🌱 **I’m currently learning in DEVF**
@@ -9,7 +10,7 @@
 
 - 🤝 **I like to help another people**
 
-- 💬 Ask me about **react, python, js**
+- 💬 Ask me about **HTML/CSS/JS, react, python**
 
 - 📫 How to reach me **eduardoaguilar10231@outlook.com**
 
