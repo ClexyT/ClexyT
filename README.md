@@ -1,5 +1,5 @@
 <h1 align="center">Eduardo Aguilar 🐱‍👤</h1>
-<h3 align="center">A frontend developer from Mexico</h3>
+<h3 align="center">Fullstack developer from Mexico</h3>
 <h2 align="center">Es/En</h2>
 <h3 align="left">About me</h3>
 
